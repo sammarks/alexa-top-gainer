@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/sammarks/alexa-top-gainer#readme",
   "dependencies": {
-    "jsdom": "^9.9.0"
+    "jsdom": "^9.9.0",
+    "q": "^1.4.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
   }
 }
